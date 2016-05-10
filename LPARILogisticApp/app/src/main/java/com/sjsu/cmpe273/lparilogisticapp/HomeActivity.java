@@ -30,7 +30,7 @@ public class HomeActivity extends AppCompatActivity {
     ActionBarDrawerToggle drawerToggle;
 
     // TODO: changing for testing -- santanu
-    public static boolean isLoggedIn = true;
+    public static boolean isLoggedIn = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
